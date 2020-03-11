@@ -1,1 +1,1 @@
-# FairPut - Preprocessing for Fair ML
+# FairPut - Fair Postprocessing for  ML
