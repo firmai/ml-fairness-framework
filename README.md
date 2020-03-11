@@ -1,1 +1,1 @@
-# FaitPut - Model Output Preprocessing for Fair Machine Learning
+# FairPut - Preprocessing for Fair ML
