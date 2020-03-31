@@ -46,6 +46,9 @@ FairPut is a light framework that describes a preferred process at the end of th
 
 If you end up using any of the novel techniques, or the framework as a whole, you can cite the following. 
 
+BibTeX entry:
+
+```
 @software{fairput,
   title = {{FairPut}: Fair Machine Learning Output Framework.},
   author = {Snow, Derek},
@@ -53,3 +56,4 @@ If you end up using any of the novel techniques, or the framework as a whole, yo
   version = {1.15},
   date = {2020-03-31},
 }
+```
