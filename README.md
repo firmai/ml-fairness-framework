@@ -90,7 +90,7 @@ What Questions Do We Attempt to Answer?
 
 Noteworthy Screen Captures
 ------------
-![](assets/Screen Shot 2020-04-01 at 10.31.00 AM.png)
+![text](assets/Screen Shot 2020-04-01 at 10.31.00 AM.png)
 
 
 
