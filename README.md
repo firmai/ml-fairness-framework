@@ -1,4 +1,4 @@
-# FairPut — Fair Machine Learning Output Framework
+# FairPut — Fair Machine Learning Framework
 
 [Framework Case Study](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6)
 
@@ -55,7 +55,7 @@ BibTeX entry:
 
 ```
 @software{fairput,
-  title = {{FairPut}: Fair Machine Learning Output Framework.},
+  title = {{FairPut}: Fair Machine Learning Framework},
   author = {Snow, Derek},
   url = {https://github.com/firmai/fairput/},
   version = {1.15},
