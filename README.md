@@ -6,9 +6,9 @@ FairPut is a light framework that describes a preferred process at the end of th
 
 1.	##### **Model Interpretability**
  *	Model Respecification 
-        - Protected Values Prediction
-        - Model Constraints
-        - Hyperparameter Modelling
+        * Protected Values Prediction
+        * Model Constraints
+        * Hyperparameter Modelling
         1. Interpretable Model
         1. Global Explanations
         1. Monotonicity Feature Explanations
