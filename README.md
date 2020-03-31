@@ -90,8 +90,14 @@ What Questions Do We Attempt to Answer?
 
 Noteworthy Screen Captures
 ------------
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.30.38%20AM.png)
 ![text](assets/Screen%20Shot%202020-04-01%20at%2010.31.00%20AM.png)
-
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.33.01%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.33.15%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.33.58%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.34.09%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.34.24%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.34.41%20AM.png)
 
 
 
