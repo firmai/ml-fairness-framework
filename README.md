@@ -1,4 +1,4 @@
-# FairPut — Fair Machine Learning Outputs
+# FairPut — Fair Machine Learning Output Framework
 
 This is a holistic approach to implement fair outputs at the individual and group level.
 
@@ -43,3 +43,15 @@ FairPut is a light framework that describes a preferred process at the end of th
             * Prototypical
             * Counterfactual
             * Contrastive
+
+
+If you end up using any of the novel techniques, or the framework as a whole, you can cite the following. 
+
+
+@software{fairput,
+  title = {{FairPut}: Fair Machine Learning Output Framework.},
+  author = {Snow, Derek},
+  url = {https://github.com/firmai/fairput/},
+  version = {1.15},
+  date = {2020-03-31},
+}
