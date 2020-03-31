@@ -6,7 +6,7 @@ This is a holistic approach to implement fair outputs at the individual and grou
 
 FairPut is a light open framework that describes a preferred process at the end of the machine learning pipeline to enchance model fairness. The aim is to simultaneously enhance model interpretability, robustness, and fairness while maintaining a reasonable level of accuracy. FairPut unifies various recent machine learning constructs in a practical manner. This method is model agnostic, but this particular development instance uses LightGBM.
 
-#### **1. [Model Explainability](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6#scrollTo=pXftn6tIdi5f&line=1&uniqifier=1)**
+#### **1. [Model Explainability](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6#scrollTo=pXftn6tIdi5f&line=1&uniqifier=1)**(Colab Section)
 ---------------
 *	Model Respecification 
        * Protected Values Prediction
