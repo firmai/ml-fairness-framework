@@ -4,7 +4,7 @@ This is a holistic approach to implement fair outputs at the individual and grou
 
 FairPut is a light framework that describes a preferred process at the end of the machine learning pipeline to enchance model fairness. This is a holistic approach to obtain less biased outputs at the individual and group level. Developers and researchers first follow the normal table processing, table exploration, feature processing, feature extraction, and model validation steps to obtain the **best possible model** to maximise a certain metric like sales or profit. The FairPut methodology follows on from this initial process. The aim is to simultaneously enhance model interpretability, robustness, and fairness while maintaining a reasonable level of accuracy. FairPut unifies various recent machine learning constructs in a practical manner. This method is model agnostic, but this particular development instance uses LightGBM.
 
-##### **1. Model Interpretability**
+#### **1. Model Interpretability**
 *	Model Respecification 
        * Protected Values Prediction
        * Model Constraints
@@ -18,15 +18,15 @@ FairPut is a light framework that describes a preferred process at the end of th
        * Partial Dependence (LV1) Monotonicity
        * Feature Interactions
        * Metrics and Cut-off
-##### **2. Model Robustness**
+#### **2. Model Robustness**
   *	Residual Deviation
   *	Residual Explanations
   *	Benchmark Competition
   *	Adversarial Attack
 
-##### **3. Regulatory Fairness**
+#### **3. Regulatory Fairness**
   *	Group
-        * Disparate Error Analysis
+      *  Disparate Error Analysis
             * Parity Indicators
             * Fair Lending Measures
         * Model Agnostic Processing
