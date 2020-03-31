@@ -33,7 +33,7 @@ FairPut is a light framework that describes a preferred process at the end of th
             * Reweighing Preprocessing
             * Disparate Impact Preprocessing
             * Calibrate Equalized Odds
-        * Feature Decomposition
+      *  Feature Decomposition
   *	Individual
       *  Reasoning
           * Individual Disparity
