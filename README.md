@@ -98,8 +98,12 @@ Noteworthy Screen Captures
 ![text](assets/Screen%20Shot%202020-04-01%20at%2010.34.09%20AM.png)
 ![text](assets/Screen%20Shot%202020-04-01%20at%2010.34.24%20AM.png)
 ![text](assets/Screen%20Shot%202020-04-01%20at%2010.34.41%20AM.png)
-
-
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.40.51%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.51.12%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.51.22%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.51.34%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.51.45%20AM.png)
+![text](assets/Screen%20Shot%202020-04-01%20at%2010.51.55%20AM.png)
 
 
 
