@@ -29,7 +29,7 @@ FairPut is a light framework that describes a preferred process at the end of th
       *  Disparate Error Analysis
             * Parity Indicators
             * Fair Lending Measures
-        * Model Agnostic Processing
+      *  Model Agnostic Processing
             * Reweighing Preprocessing
             * Disparate Impact Preprocessing
             * Calibrate Equalized Odds
