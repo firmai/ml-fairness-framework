@@ -9,15 +9,15 @@ FairPut is a light framework that describes a preferred process at the end of th
        * Protected Values Prediction
        * Model Constraints
        * Hyperparameter Modelling
-        1. Interpretable Model
-        1. Global Explanations
-        1. Monotonicity Feature Explanations
+       * Interpretable Model
+       * Global Explanations
+       * Monotonicity Feature Explanations
 *	Quantitative Validation 
-        1. Level Two Monotonicity
-        1. Relationship Analysis
-        1. Partial Dependence (LV1) Monotonicity
-        1. Feature Interactions
-        1. Metrics and Cut-off
+       * Level Two Monotonicity
+       * Relationship Analysis
+       * Partial Dependence (LV1) Monotonicity
+       * Feature Interactions
+       * Metrics and Cut-off
 ##### **2. Model Robustness**
   *	Residual Deviation
   *	Residual Explanations
@@ -26,27 +26,25 @@ FairPut is a light framework that describes a preferred process at the end of th
 
 ##### **3. Regulatory Fairness**
   *	Group
-        1. Disparate Error Analysis
+        * Disparate Error Analysis
             * Parity Indicators
             * Fair Lending Measures
-        1. Model Agnostic Processing
+        * Model Agnostic Processing
             * Reweighing Preprocessing
             * Disparate Impact Preprocessing
             * Calibrate Equalized Odds
-        1. Feature Decomposition
+        * Feature Decomposition
   *	Individual
-        1. Reasoning
+        *  Reasoning
             * Individual Disparity
             * Reasoning Codes
-
-        1. Example Base
+        *  Example Base
             * Prototypical
             * Counterfactual
             * Contrastive
 
 
 If you end up using any of the novel techniques, or the framework as a whole, you can cite the following. 
-
 
 @software{fairput,
   title = {{FairPut}: Fair Machine Learning Output Framework.},
