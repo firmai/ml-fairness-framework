@@ -1,6 +1,6 @@
 # FairPut — Fair Machine Learning Framework
 
-[Framework Case Study](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6)
+[Mortgage Case Study](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6)
 
 This is a holistic approach to implement fair outputs at the individual and group level.
 
