@@ -6,8 +6,6 @@ This is a holistic approach to implement fair outputs at the individual and grou
 
 FairPut is a light open framework that describes a preferred process at the end of the machine learning pipeline to enchance model fairness. Developers and researchers first follow the normal table processing, table exploration, feature processing, feature extraction, and model validation steps to obtain the **best possible model** to maximise a certain metric like sales or profit. The FairPut methodology follows on from this initial process. The aim is to simultaneously enhance model interpretability, robustness, and fairness while maintaining a reasonable level of accuracy. FairPut unifies various recent machine learning constructs in a practical manner. This method is model agnostic, but this particular development instance uses LightGBM.
 
-Stack: [Alibi](https://github.com/SeldonIO/alibi), [AIF360](https://github.com/IBM/AIF360), [AIX360](https://github.com/IBM/AIX360), [SHAP](https://github.com/slundberg/shap), [PDPbox](https://github.com/SauceCat/PDPbox)
-
 #### **1. [Model Explainability](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6#scrollTo=pXftn6tIdi5f&line=1&uniqifier=1)**
 ---------------
 *	Model Respecification 
@@ -64,6 +62,7 @@ BibTeX entry:
   date = {2020-03-31},
 }
 ```
+Stack: [Alibi](https://github.com/SeldonIO/alibi), [AIF360](https://github.com/IBM/AIF360), [AIX360](https://github.com/IBM/AIX360), [SHAP](https://github.com/slundberg/shap), [PDPbox](https://github.com/SauceCat/PDPbox)
 
 What Questions Do We Attempt to Answer?
 ------------
