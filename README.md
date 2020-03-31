@@ -1,6 +1,6 @@
 # FairPut — Fair Machine Learning Output Framework
 
-[Framework Case Study.](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6)
+[Framework Case Study](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6)
 
 This is a holistic approach to implement fair outputs at the individual and group level.
 
@@ -21,14 +21,14 @@ FairPut is a light framework that describes a preferred process at the end of th
        * Partial Dependence (LV1) Monotonicity
        * Feature Interactions
        * Metrics and Cut-off
-#### **2. Model Robustness**
+#### **2. [Model Robustness](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6#scrollTo=cGreStojd5oc)**
 ---------------
   *	Residual Deviation
   *	Residual Explanations
   *	Benchmark Competition
   *	Adversarial Attack
 
-#### **3. Regulatory Fairness**
+#### **3. [Regulatory Fairness](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6#scrollTo=HGLUFEIBbC0s)**
 ---------------
   *	Group
       *  Disparate Error Analysis
