@@ -88,6 +88,12 @@ What Questions Do We Attempt to Answer?
 19. What is the maximum perturbation possible while the model prediction remains the same? (Contrastive)
 
 
+Noteworthy Screen Captures
+------------
+[!](assets/Screen Shot 2020-04-01 at 10.31.00 AM.png)
+
+
+
 
 
 
