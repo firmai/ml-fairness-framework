@@ -81,7 +81,7 @@ What Questions Do We Attempt to Answer?
 1. What features are driving the structural differences between groups controlling for demographic factors? (Feature Decomposition)
 1. What inviduals have received the most unfair prediction or treatment by the model? (Individual Disparity)
 1. Why did the model decide to predict a specific outcome for a particular individual or sub-group of individuals? (Reasoning Codes)
-1. What indviduals are most similar to those receiving unfair treatment, were these indivduals treated similary? (Prototypical)
+1. What indviduals are most similar to those receiving unfair treatment and were these indivduals treated similary? (Prototypical)
 1. What individual is the closest related instance to a sample individual but has a different predicted outcome? (Counterfactual)
 1. What is the minimal feature pertubation necessary to switch an individual's prediction to another category? (Contrastive)
 1. What is the maximum perturbation possible while the model prediction remains the same? (Contrastive)
