@@ -2,6 +2,8 @@
 
 Colab Notebook: [Mortgage Case Study](https://colab.research.google.com/drive/1uxSP5_CuhxjjhcT_iIeL6lsmx1gwO5B6)
 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715
+
 This is a holistic approach to implement fair outputs at the individual and group level. Some of the methods developed or used includes ```quantitative monotonic measures```, ```residual explanations```, ```benchmark competition```, ```adverserial attacks```, ```disparate error analysis```, ```model agnostic pre-and post-processing```, ```reasoning codes```, ```counterfactuals```, ```contrastive explanations```, and ```prototypical examples```. 
 
 FairPut is a light open framework that describes a preferred process at the end of the machine learning pipeline to enchance model fairness. The aim is to simultaneously enhance model interpretability, robustness, and fairness while maintaining a reasonable level of accuracy. FairPut unifies various recent machine learning constructs in a practical manner. This method is model agnostic, but this particular development instance uses LightGBM.
