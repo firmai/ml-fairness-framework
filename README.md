@@ -6,11 +6,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3619715
 
 ---------
 
-## Sov.ai Research Lab (Sponsorship)
-
-Animated Investment Management Research at [Sov.ai](https://sov.ai) — Sponsoring open source AI, Machine learning, and Data Science initiatives.
-
----------
 
 This is a holistic approach to implement fair outputs at the individual and group level. Some of the methods developed or used includes ```quantitative monotonic measures```, ```residual explanations```, ```benchmark competition```, ```adverserial attacks```, ```disparate error analysis```, ```model agnostic pre-and post-processing```, ```reasoning codes```, ```counterfactuals```, ```contrastive explanations```, and ```prototypical examples```. 
 
